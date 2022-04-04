@@ -1,0 +1,5 @@
+StudentCodes
+bin
+obj
+*.depend
+*.layout

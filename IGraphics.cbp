@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="IGraphics" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/OpenGL" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+					<Add directory="OpenGL/include" />
+				</Compiler>
+				<Linker>
+					<Add library="Glaux" />
+					<Add library="GLU32" />
+					<Add library="glui32" />
+					<Add library="glut32" />
+					<Add library="OPENGL32" />
+					<Add library="gdi32" />
+					<Add directory="./OpenGL/lib" />
+				</Linker>
+				<ExtraCommands>
+					<Add after="xcopy /y openGL\dll\glut32.dll $TARGET_OUTPUT_DIR" />
+				</ExtraCommands>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/OpenGL" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+			<Add directory="OpenGL/include" />
+		</Compiler>
+		<Linker>
+			<Add library="OpenGL/lib/Glaux.lib" />
+			<Add library="OpenGL/lib/GLU32.LIB" />
+			<Add library="OpenGL/lib/glui32.lib" />
+			<Add library="OpenGL/lib/glut32.lib" />
+			<Add library="OpenGL/lib/OPENGL32.LIB" />
+		</Linker>
+		<ExtraCommands>
+			<Add after="xcopy /y OpenGL\DLL\glut32.dll $TARGET_OUTPUT_DIR" />
+		</ExtraCommands>
+		<Unit filename="main.cpp" />
+		<Extensions>
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

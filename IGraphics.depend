@@ -1,0 +1,214 @@
+# depslib dependency file v1.0
+1563893532 source:c:\users\mimi\documents\new\igraphics-master\igraphics-master\solarsystem.cpp
+	"iGraphics.h"
+	"gl.h"
+
+1646908330 c:\users\mimi\documents\new\igraphics-master\igraphics-master\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"glut.h"
+	<time.h>
+	<math.h>
+	"glaux.h"
+
+1563893532 c:\users\mimi\documents\new\igraphics-master\igraphics-master\opengl\include\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1563893532 c:\users\mimi\documents\new\igraphics-master\igraphics-master\opengl\include\glaux.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1563893532 c:\users\mimi\documents\new\igraphics-master\igraphics-master\opengl\include\gl.h
+
+1646905413 source:c:\users\mimi\documents\new\igraphics-master\igraphics-master\mousedemo.cpp
+	"iGraphics.h"
+
+1563893532 source:c:\users\mimi\documents\new\igraphics-master\igraphics-master\balldemo.cpp
+	"iGraphics.h"
+	"gl.h"
+
+1563893532 source:c:\users\mimi\documents\new\igraphics-master\igraphics-master\picturedemo.cpp
+	"iGraphics.h"
+
+1647122642 source:e:\jaber-igraphics-master (1)\imain.cpp
+	"iGraphics.h"
+	<bits/stdc++.h>
+	<windows.h>
+	<mmsystem.h>
+
+1648838823 e:\jaber-igraphics-master (1)\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"glut.h"
+	<time.h>
+	<math.h>
+	"glaux.h"
+	"stb_image.h"
+
+1563893532 e:\jaber-igraphics-master (1)\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1563893532 e:\jaber-igraphics-master (1)\glaux.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1647464179 source:e:\jaber-igraphics-master (1)\sortings.cpp
+	"iGraphics.h"
+	<windows.h>
+	<bits/stdc++.h>
+	"swift.h"
+
+1649096264 e:\jaber-igraphics-master (1)\swift.h
+	"iGraphics.h"
+
+1647359369 source:e:\jaber-igraphics-master (1)\tohanoi.cpp
+
+1648232126 source:e:\jaber-igraphics-master (1)\tower-of-hanoi.cpp
+	<windows.h>
+	<bits/stdc++.h>
+	"qswift.h"
+
+1648277730 source:e:\jaber-igraphics-master (1)\geometry.cpp
+	<windows.h>
+	<bits/stdc++.h>
+	<mmsystem.h>
+	"qswift.h"
+
+1647383276 source:e:\jaber-igraphics-master (1)\gaem.cpp
+	"iGraphics.h"
+	<bits/stdc++.h>
+	<windows.h>
+
+1648976719 source:e:\jaber-igraphics-master (1)\dc-circuit.cpp
+	<windows.h>
+	<bits/stdc++.h>
+	"qswift.h"
+
+1647538892 source:e:\jaber-igraphics-master (1)\newsortings.cpp
+	<windows.h>
+	<bits/stdc++.h>
+	"newswift.h"
+
+1647544115 e:\jaber-igraphics-master (1)\newswift.h
+	"iGraphics.h"
+
+1647586986 e:\jaber-igraphics-master (1)\nnswift.h
+	"iGraphics.h"
+
+1647628764 e:\jaber-igraphics-master (1)\nnnswift.h
+	"iGraphics.h"
+
+1647629097 e:\jaber-igraphics-master (1)\pswift.h
+	"iGraphics.h"
+
+1647633022 source:e:\jaber-igraphics-master (1)\searching.cpp
+	<windows.h>
+	<bits/stdc++.h>
+	"qswift.h"
+
+1647640640 e:\jaber-igraphics-master (1)\qswift.h
+	"iGraphics.h"
+
+1648215826 source:e:\jaber-igraphics-master (1)\number-theory.cpp
+	<windows.h>
+	<bits/stdc++.h>
+	<mmsystem.h>
+	"qswift.h"
+
+1648220957 source:e:\jaber-igraphics-master (1)\ac_circuit.cpp
+	<windows.h>
+	<bits/stdc++.h>
+	"qswift.h"
+
+1649014689 source:e:\jaber-igraphics-master (1)\logic.cpp
+	<windows.h>
+	<bits/stdc++.h>
+	"qswift.h"
+
+1648955589 source:e:\jaber-igraphics-master (1)\aabbccdd.cpp
+	"iGraphics.h"
+	<math.h>
+
+1649097959 source:e:\jaber-igraphics-master (1)\mmain.cpp
+	<windows.h>
+	<bits/stdc++.h>
+	"fSwift.h"
+
+1649095789 e:\jaber-igraphics-master (1)\fswift.h
+	"iGraphics.h"
+
+1649100276 source:e:\jaber-igraphics-master (1)\main.cpp
+	<windows.h>
+	<bits/stdc++.h>
+	"swift.h"
+
+1649098733 e:\jaber-igraphics-master (1)\stb_image.h
+	"stb_image.h"
+	<stdio.h>
+	<stdlib.h>
+	<stdarg.h>
+	<stddef.h>
+	<stdlib.h>
+	<string.h>
+	<limits.h>
+	<math.h>
+	<stdio.h>
+	<assert.h>
+	<stdint.h>
+	<emmintrin.h>
+	<intrin.h>
+	<arm_neon.h>
+
+1649100276 source:e:\tinkercode-master\main.cpp
+	<windows.h>
+	<bits/stdc++.h>
+	"swift.h"
+
+1649096264 e:\tinkercode-master\swift.h
+	"iGraphics.h"
+
+1648838823 e:\tinkercode-master\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"glut.h"
+	<time.h>
+	<math.h>
+	"glaux.h"
+	"stb_image.h"
+
+1563893532 e:\tinkercode-master\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1563893532 e:\tinkercode-master\glaux.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1649098733 e:\tinkercode-master\stb_image.h
+	"stb_image.h"
+	<stdio.h>
+	<stdlib.h>
+	<stdarg.h>
+	<stddef.h>
+	<stdlib.h>
+	<string.h>
+	<limits.h>
+	<math.h>
+	<stdio.h>
+	<assert.h>
+	<stdint.h>
+	<emmintrin.h>
+	<intrin.h>
+	<arm_neon.h>
+
