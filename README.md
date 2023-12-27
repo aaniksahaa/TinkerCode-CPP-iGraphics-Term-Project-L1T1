@@ -1,6 +1,8 @@
 # TinkerCode
 An interactive interface made with C++ iGraphics that efficiently simulates ultra-cute Algorithms and super-complex Circuits.
-#Features:
+
+# Features
+
 # 1. Dashboard
 
 ![Screenshot (14)](https://user-images.githubusercontent.com/63545621/191001187-2764a18f-0e0c-4f1d-8fa7-d8eda49a10df.png)
@@ -39,7 +41,5 @@ An interactive interface made with C++ iGraphics that efficiently simulates ultr
 
 # 10. Neural Network
 
-
-# How to Thank
 Please do care to star the repository.
 # Good Bye
