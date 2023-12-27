@@ -41,5 +41,4 @@ An interactive interface made with C++ iGraphics that efficiently simulates ultr
 
 # 10. Neural Network
 
-Please do care to star the repository.
 # Good Bye
